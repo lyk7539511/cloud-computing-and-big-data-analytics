@@ -1,1 +1,1 @@
-# cloud-computing-and-big-data-analyse
+# cloud-computing-and-big-data-analytics
